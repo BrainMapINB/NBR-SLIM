@@ -1,0 +1,2 @@
+Component ncomp ncompFWE strn strnFWE
+1 4 0.001 19.2317164883036 0
